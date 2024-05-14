@@ -10,7 +10,7 @@ In the project directory, you can run:
 
 ### `npm start`
 
-###functions used: 
+### 'functions used:' 
 
 useState: The component uses the useState hook to manage the state of walletAddress, which stores the user's wallet address.
 
