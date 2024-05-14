@@ -9,6 +9,9 @@ In the project directory, you can run:
 ### `npm install ethers`
 
 ### `npm start`
+
+###functions used: 
+
 useState: The component uses the useState hook to manage the state of walletAddress, which stores the user's wallet address.
 
 requestAccount: This function requests access to the user's MetaMask wallet using window.ethereum.request. If successful, it sets the walletAddress state with the user's wallet address.
